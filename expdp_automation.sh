@@ -1,6 +1,7 @@
+#!/bin/bash
 # |------------------------------------------------------------------------|
 # |                                                                        |
-# | File Name    : ~/expdp_automation.sh                                   |
+# | File Name    : expdp_automation.sh                                   |
 # | Author       : Suresh Sundararajan                                     |
 # |                                                                        |
 # | Description  : To perform expdp in Oracle database interactively in    |
